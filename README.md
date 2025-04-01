@@ -1,6 +1,8 @@
-# Hi there! 👋 I'm Ariane Souza  
 
- # 💫 About Me:
+
+![Blue and Purple Modern AI Technology Banner](https://github.com/user-attachments/assets/8406ff35-b0e7-42db-bae0-56075339df31)
+
+ # About Me:
 <br>With 6 years in UX/UI, I have a strong foundation in creating user-centered, visually appealing experiences. Over time, I’ve evolved from designing static websites to building interactive applications from scratch, using tools like React, Node.js, and modern UI frameworks. Nowadays, I'm moving toward full stack development.<br><br>What drives me most is solving problems. I’m passionate about taking real-world challenges and crafting solutions that align both with user needs and technical feasibility. While my background is deeply rooted in UX/UI, what excites me most is the process of taking an idea, solving real-world problems, and building software that meets user needs. I thrive in environments where I can combine design, code, and problem-solving to create software that truly works.<br><br>
 
 ## <img src="https://github.com/user-attachments/assets/59f026d2-dc51-4118-9a32-62cd31390d3c" width="20" alt="image"> Featured Skills:
@@ -12,7 +14,7 @@
 **Full-Stack Problem Solver**: I’m passionate about not just designing solutions, but building them. As I continue developing my full-stack skills, I focus on creating applications that address real-world problems, all while maintaining a clean and scalable codebase.
 
 
-## 🌐 Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ariane-souza-dev/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arianesouzareal@gmail.com) 
 
 # Languages:
