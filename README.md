@@ -1,6 +1,7 @@
 
 
-![Blue and Purple Modern AI Technology Banner](https://github.com/user-attachments/assets/8406ff35-b0e7-42db-bae0-56075339df31)
+![Blue and Purple Modern AI Technology Banner(1)](https://github.com/user-attachments/assets/c9029b31-ebc0-4b69-8737-9d196ce0c8a9)
+
 
  # About Me:
 <br>With 6 years in UX/UI, I have a strong foundation in creating user-centered, visually appealing experiences. Over time, I’ve evolved from designing static websites to building interactive applications from scratch, using tools like React, Node.js, and modern UI frameworks. Nowadays, I'm moving toward full stack development.<br><br>What drives me most is solving problems. I’m passionate about taking real-world challenges and crafting solutions that align both with user needs and technical feasibility. While my background is deeply rooted in UX/UI, what excites me most is the process of taking an idea, solving real-world problems, and building software that meets user needs. I thrive in environments where I can combine design, code, and problem-solving to create software that truly works.<br><br>
