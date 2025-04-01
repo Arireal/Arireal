@@ -1,6 +1,5 @@
 # Hi there! 👋 I'm Ariane Souza  
 
- **Frontend Engineer, UX/UI Designer, Moving Toward Full-Stack Development** 
  # 💫 About Me:
 <br>With 7 years in design and 6 years in UX/UI, I have a strong foundation in creating user-centered, visually appealing experiences. Over time, I’ve evolved from designing static websites to building interactive applications from scratch, using tools like React, Node.js, and modern UI frameworks. Nowadays, I'm moving toward full stack development.<br><br>What drives me most is solving problems. I’m passionate about taking real-world challenges and crafting solutions that align both with user needs and technical feasibility. While my background is deeply rooted in UX/UI, what excites me most is the process of taking an idea, solving real-world problems, and building software that meets user needs. I thrive in environments where I can combine design, code, and problem-solving to create software that truly works.<br><br>
 
