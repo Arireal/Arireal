@@ -4,15 +4,25 @@
 
 
  # About Me:
-<br>With 6 years in UX/UI, I have a strong foundation in creating user-centered, visually appealing experiences. Over time, I’ve evolved from designing static websites to building interactive applications from scratch, using tools like React, Node.js, and modern UI frameworks. Nowadays, I'm moving toward full stack development.<br><br>What drives me most is solving problems. I’m passionate about taking real-world challenges and crafting solutions that align both with user needs and technical feasibility. While my background is deeply rooted in UX/UI, what excites me most is the process of taking an idea, solving real-world problems, and building software that meets user needs. I thrive in environments where I can combine design, code, and problem-solving to create software that truly works.<br><br>
+<br>I work primarily as a Python developer, focused on building practical, data-driven and automation-oriented software. My background in UX/UI design helps me approach problems with clarity, structure, and real user needs in mind.<br><br>
+
+Over time, I’ve moved from designing interfaces to building complete systems — from APIs and automation tools to full applications using Python, SQL, and modern web technologies. I enjoy working close to real-world problems, where software needs to be reliable, understandable, and actually used.<br><br>
+
+What drives me most is problem-solving. I like taking messy requirements, breaking them down into systems, and turning them into working solutions that balance technical feasibility with human usability.<br><br>
 
 ## <img src="https://github.com/user-attachments/assets/59f026d2-dc51-4118-9a32-62cd31390d3c" width="20" alt="image"> Featured Skills:
 
-**Kanban Advocate**: I organize my workflow using the Kanban method, ensuring tasks are prioritized, tracked, and completed efficiently. This system helps me stay focused on delivering quality results while adapting to changes as needed. My experience with Scrum and Jira has also reinforced the value of iterative progress and clear communication.
+**Structured, Iterative Development**  
+I organize my work using Kanban principles, focusing on clear priorities, continuous progress, and reliable delivery. Experience with Scrum and Jira has strengthened my ability to work iteratively, adapt to changing requirements, and communicate progress effectively.
 <br><br>
-**Data-Driven Development**: I firmly believe that data is essential at every stage of the process. Whether designing a feature or developing an app, I base my decisions on metrics, user behavior, and feedback to ensure that the final product meets the user’s needs and business goals.
+
+**Data-Driven Systems**  
+I approach development with a data-driven mindset, using metrics, structured data, and feedback to guide decisions. Whether working with Python, SQL, or APIs, I prioritize systems that can be measured, improved, and maintained over time.
 <br><br>
-**Full-Stack Problem Solver**: I’m passionate about not just designing solutions, but building them. As I continue developing my full-stack skills, I focus on creating applications that address real-world problems, all while maintaining a clean and scalable codebase.
+
+**Practical Software Development**  
+I focus on building practical solutions — automation tools, APIs, and applications — that solve real-world problems. My work emphasizes clean, scalable code and systems designed to be reliable, understandable, and actually used.
+
 
 
 ## Socials:
