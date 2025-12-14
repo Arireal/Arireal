@@ -8,7 +8,7 @@
 
 Over time, I’ve moved from designing interfaces to building complete systems — from APIs and automation tools to full applications using Python, SQL, and modern web technologies. I enjoy working close to real-world problems, where software needs to be reliable, understandable, and actually used.<br>
 
-What drives me most is problem-solving. I like taking messy requirements, breaking them down into systems, and turning them into working solutions that balance technical feasibility with human usability.<br>
+What drives me most is problem-solving. I like taking messy requirements, breaking them down into systems, and turning them into working solutions that balance technical feasibility with human usability.<br><b>
 
 ## <img src="https://github.com/user-attachments/assets/59f026d2-dc51-4118-9a32-62cd31390d3c" width="20" alt="image"> Featured Skills:
 
