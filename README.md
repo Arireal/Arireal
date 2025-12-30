@@ -79,16 +79,10 @@ I focus on building **practical solutions** — automation tools, APIs, and appl
 
 ## 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arireal&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arireal&show_icons=true)
+Top Languages: Python and React
+
+
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=Arireal)
 
 ---
 
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Arireal&margin-w=4)
-
----
-
-![Profile Views](https://visitcount.itsvg.in/api?id=Arireal)
