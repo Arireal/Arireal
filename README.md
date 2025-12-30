@@ -79,7 +79,7 @@ I focus on building **practical solutions** — automation tools, APIs, and appl
 
 ## 📈 GitHub Stats
 
-Top Languages: Python and React
+Top Languages: Python and JavaScript
 
 
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=Arireal)
