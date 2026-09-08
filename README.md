@@ -52,6 +52,9 @@ Contributing to public projects and sharing selected tools, experiments and reus
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend
 
@@ -81,6 +84,10 @@ Contributing to public projects and sharing selected tools, experiments and reus
 ### Workflow
 
 Git · GitHub · GitHub Actions · CI/CD · Jira
+
+### Currently Exploring
+
+Three.js · WebGL · Interactive 3D
 
 ---
 
