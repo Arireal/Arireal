@@ -93,4 +93,4 @@ Three.js · WebGL · Interactive 3D
 
 ## 🌐 Find me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white](https://www.linkedin.com/in/ariane-souza-dev/))](YOUR_LINKEDIN_URL)
