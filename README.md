@@ -6,7 +6,7 @@ My background spans product research, UX, design and software development, which
 
 I’m currently focusing on a product-building stack centered around:
 
-- **TypeScript, React & React Native** — web and mobile interfaces
+- **TypeScript, React & React Native** - web and mobile interfaces
 - **Python** - backend services, automation and AI-enabled functionality
 - **SQL** - data modeling and application data
 - **Git & GitHub** - source control and collaborative development
