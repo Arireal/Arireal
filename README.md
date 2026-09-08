@@ -7,10 +7,10 @@ My background spans product research, UX, design and software development, which
 I’m currently focusing on a product-building stack centered around:
 
 - **TypeScript, React & React Native** — web and mobile interfaces
-- **Python** — backend services, automation and AI-enabled functionality
-- **SQL** — data modeling and application data
-- **Git & GitHub** — source control and collaborative development
-- **Testing & CI/CD** — quality, automation and reliable deployment
+- **Python** - backend services, automation and AI-enabled functionality
+- **SQL** - data modeling and application data
+- **Git & GitHub** - source control and collaborative development
+- **Testing & CI/CD** - quality, automation and reliable deployment
 
 I’m especially interested in building systems that are practical, maintainable and grounded in real user needs.
 
@@ -19,7 +19,7 @@ I’m especially interested in building systems that are practical, maintainable
 ## 🧭 Current Focus
 
 ### Product Engineering
-Working across the full product lifecycle — research, prototyping, implementation, testing, deployment and iteration.
+Working across the full product lifecycle - research, prototyping, implementation, testing, deployment and iteration.
 
 ### Web & Mobile
 Building interfaces and applications with **TypeScript, React and React Native**.
